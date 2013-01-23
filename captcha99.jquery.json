@@ -1,0 +1,22 @@
+{
+    "name": "captcha99",
+    "title": "jQuery Captcha99",
+    "description": "Throws user a simple Math problem to identify humans from bots.",
+    "keywords": [
+        "jquery",
+        "captcha"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Madhur Sharma"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+	"dependencies": {
+        "jquery": ">=1.4"
+    }
+}
