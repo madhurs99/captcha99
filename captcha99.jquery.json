@@ -3,7 +3,7 @@
     "title": "jQuery Captcha99",
     "description": "Throws user a simple Math problem to identify humans from bots.",
     "keywords": [
-        "jquery",
+        "form",
         "captcha"
     ],
     "version": "0.0.1",
